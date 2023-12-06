@@ -1,0 +1,28 @@
+CUSTOM_DUMPSOFTWAREVERSIONS:
+  python: 3.10.6
+  yaml: '6.0'
+EPANG_PLACE:
+  epang: 0.3.8
+GAPPA_GRAFT:
+  gappa: 0.8.0
+GAPPA_HEATTREE:
+  gappa: 0.8.0
+HMMER_AFAFORMATQUERY:
+  hmmer/easel: '0.48'
+HMMER_AFAFORMATREF:
+  hmmer/easel: '0.48'
+HMMER_HMMALIGNQUERY:
+  hmmer: 3.3.2
+HMMER_HMMALIGNREF:
+  hmmer: 3.3.2
+HMMER_HMMBUILD:
+  hmmer: 3.3.2
+HMMER_MASKQUERY:
+  hmmer/easel: '0.48'
+HMMER_MASKREF:
+  hmmer/easel: '0.48'
+HMMER_UNALIGNREF:
+  hmmer/easel: '0.48'
+Workflow:
+  Nextflow: 23.04.2
+  nf-core/phyloplace: 1.0.0

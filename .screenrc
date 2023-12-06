@@ -5,6 +5,8 @@ chdir $ROOT/data
 screen -t data
 chdir $ROOT/scripts
 screen -t scripts
+chdir $ROOT/phyloplace
+screen -t phyloplace
 chdir $ROOT
 screen -t rstudio
 screen -t man
