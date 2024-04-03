@@ -61,7 +61,7 @@ Global Options:
 Run the following command to get the references that need to be cited:
 `gappa tools citation Czech2020-genesis-and-gappa`
 
-Started 2024-04-03 11:43:04
+Started 2024-04-03 11:46:13
 
 Found 1 jplace file
 Output options --write-nexus-tree and --write-phyloxml-tree produce trees with colored branches. These formats are however not able to store the legend, that is, which color represents which value. Thus, use to following positions to create a legend (with linear color interpolation between the positions). These positions range from 0.0 (lowest) to 1.0 (heighest), and are labeled with the values and colors represented by those positions.
@@ -74,4 +74,4 @@ Output options --write-nexus-tree and --write-phyloxml-tree produce trees with c
 Alternatively, use the option --write-svg-tree to create an Svg file from which the color legend can be copied.
 
 
-Finished 2024-04-03 11:43:04
+Finished 2024-04-03 11:46:13
