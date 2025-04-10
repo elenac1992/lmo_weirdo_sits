@@ -1,0 +1,25 @@
+EPANG_PLACE:
+  epang: 0.3.8
+GAPPA_GRAFT:
+  gappa: 0.8.0
+GAPPA_HEATTREE:
+  gappa: 0.8.0
+HMMER_AFAFORMATQUERY:
+  hmmer/easel: 0.48
+HMMER_AFAFORMATREF:
+  hmmer/easel: 0.48
+HMMER_HMMALIGNQUERY:
+  hmmer: 3.4
+HMMER_HMMALIGNREF:
+  hmmer: 3.4
+HMMER_HMMBUILD:
+  hmmer: 3.4
+HMMER_MASKQUERY:
+  hmmer/easel: 0.48
+HMMER_MASKREF:
+  hmmer/easel: 0.48
+HMMER_UNALIGNREF:
+  hmmer/easel: 0.48
+Workflow:
+    nf-core/phyloplace: v2.0.0-g827b85d
+    Nextflow: 24.10.5

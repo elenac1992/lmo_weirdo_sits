@@ -10,11 +10,11 @@
                    ''''     ''''   v0.8.0 (c) 2017-2022
                                    by Lucas Czech and Pierre Barbera
 
-Invocation:                        gappa examine heat-tree --threads 2 --file-prefix lmo_polyA.heattree. --jplace-path lmo_polyA.epa_result.jplace.gz --write-nexus-tree --write-phyloxml-tree --write-svg-tree --log-file lmo_polyA.heattree.log
+Invocation:                        gappa examine heat-tree --threads 2 --file-prefix reannot202503.heattree. --jplace-path reannot202503.epa_result.jplace.gz --write-nexus-tree --write-phyloxml-tree --write-svg-tree --log-file reannot202503.heattree.log
 Command:                           gappa examine heat-tree
 
 Input:
-  --jplace-path                    lmo_polyA.epa_result.jplace.gz
+  --jplace-path                    reannot202503.epa_result.jplace.gz
 
 Settings:
   --mass-norm                      absolute
@@ -37,7 +37,7 @@ Color:
 
 Output:
   --out-dir                        .
-  --file-prefix                    lmo_polyA.heattree.
+  --file-prefix                    reannot202503.heattree.
   --file-suffix
 
 Tree Output:
@@ -56,22 +56,22 @@ Global Options:
   --allow-file-overwriting         false
   --verbose                        false
   --threads                        2
-  --log-file                       lmo_polyA.heattree.log
+  --log-file                       reannot202503.heattree.log
 
 Run the following command to get the references that need to be cited:
 `gappa tools citation Czech2020-genesis-and-gappa`
 
-Started 2024-04-03 11:46:13
+Started 2025-04-10 08:21:02
 
 Found 1 jplace file
 Output options --write-nexus-tree and --write-phyloxml-tree produce trees with colored branches. These formats are however not able to store the legend, that is, which color represents which value. Thus, use to following positions to create a legend (with linear color interpolation between the positions). These positions range from 0.0 (lowest) to 1.0 (heighest), and are labeled with the values and colors represented by those positions.
     At 0.000: Label '0', Color #81bfff
-    At 0.235: Label '20', Color #9f83e0
-    At 0.470: Label '40', Color #bc48c2
-    At 0.705: Label '60', Color #712670
-    At 0.939: Label '80', Color #170817
-    At 1.000: Label '85.1656', Color #000000
+    At 0.234: Label '20', Color #9f83e1
+    At 0.469: Label '40', Color #bc48c2
+    At 0.703: Label '60', Color #722671
+    At 0.938: Label '80', Color #180818
+    At 1.000: Label '85.322', Color #000000
 Alternatively, use the option --write-svg-tree to create an Svg file from which the color legend can be copied.
 
 
-Finished 2024-04-03 11:46:13
+Finished 2025-04-10 08:21:02

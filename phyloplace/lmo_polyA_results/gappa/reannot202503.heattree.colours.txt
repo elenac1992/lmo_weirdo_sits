@@ -1,0 +1,6 @@
+    At 0.000: Label '0', Color #81bfff
+    At 0.234: Label '20', Color #9f83e1
+    At 0.469: Label '40', Color #bc48c2
+    At 0.703: Label '60', Color #722671
+    At 0.938: Label '80', Color #180818
+    At 1.000: Label '85.322', Color #000000

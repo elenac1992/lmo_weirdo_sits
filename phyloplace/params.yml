@@ -1,7 +1,3 @@
 id: 'lmo_polyA'
 outdir: 'lmo_polyA_results'
-refphylogeny: 'references.newick'
-refseqfile: 'references.phylip'
-queryseqfile: 'lmo_polyA_sits.faa'
-model: 'LG+R5+F'
-max_memory: 12.GB
+phyloplace_input: 'samples.csv'

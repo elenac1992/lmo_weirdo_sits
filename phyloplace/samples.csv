@@ -1,0 +1,3 @@
+sample,queryseqfile,refseqfile,refphylogeny,model
+annotation1,lmo_polyA_sits.faa,references.phylip,references.newick,LG+R5+F
+reannot202503,PF03842.faa.gz,references.phylip,references.newick,LG+R5+F

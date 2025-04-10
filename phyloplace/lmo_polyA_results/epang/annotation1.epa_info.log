@@ -1,7 +1,7 @@
 INFO Selected: Output dir: ./
-INFO Selected: Query file: lmo_polyA.query.hmmalign.masked.afa.gz
+INFO Selected: Query file: annotation1.query.hmmalign.masked.afa.gz
 INFO Selected: Tree file: references.newick
-INFO Selected: Reference MSA: lmo_polyA.ref.hmmalign.masked.afa.gz
+INFO Selected: Reference MSA: annotation1.ref.hmmalign.masked.afa.gz
 INFO Selected: Automatic switching of use of per rate scalers
 INFO Selected: Preserving the root of the input tree
 INFO Selected: Specified model: LG+R5+F

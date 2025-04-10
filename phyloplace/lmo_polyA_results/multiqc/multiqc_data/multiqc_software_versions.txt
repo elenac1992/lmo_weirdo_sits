@@ -1,0 +1,13 @@
+Sample	epang	gappa	hmmer/easel	hmmer	nf-core/phyloplace	Nextflow
+EPANG_PLACE	0.3.8					
+GAPPA_GRAFT		0.8.0				
+GAPPA_HEATTREE		0.8.0				
+HMMER_AFAFORMATQUERY			0.48			
+HMMER_AFAFORMATREF			0.48			
+HMMER_HMMALIGNQUERY				3.4		
+HMMER_HMMALIGNREF				3.4		
+HMMER_HMMBUILD				3.4		
+HMMER_MASKQUERY			0.48			
+HMMER_MASKREF			0.48			
+HMMER_UNALIGNREF			0.48			
+Workflow					v2.0.0-g827b85d	24.10.5
