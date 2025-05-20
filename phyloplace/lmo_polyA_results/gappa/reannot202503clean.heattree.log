@@ -10,11 +10,11 @@
                    ''''     ''''   v0.8.0 (c) 2017-2022
                                    by Lucas Czech and Pierre Barbera
 
-Invocation:                        gappa examine heat-tree --threads 2 --file-prefix reannot202503.heattree. --jplace-path reannot202503.epa_result.jplace.gz --write-nexus-tree --write-phyloxml-tree --write-svg-tree --log-file reannot202503.heattree.log
+Invocation:                        gappa examine heat-tree --threads 2 --file-prefix reannot202503clean.heattree. --jplace-path reannot202503clean.epa_result.jplace.gz --write-nexus-tree --write-phyloxml-tree --write-svg-tree --log-file reannot202503clean.heattree.log
 Command:                           gappa examine heat-tree
 
 Input:
-  --jplace-path                    reannot202503.epa_result.jplace.gz
+  --jplace-path                    reannot202503clean.epa_result.jplace.gz
 
 Settings:
   --mass-norm                      absolute
@@ -37,7 +37,7 @@ Color:
 
 Output:
   --out-dir                        .
-  --file-prefix                    reannot202503.heattree.
+  --file-prefix                    reannot202503clean.heattree.
   --file-suffix
 
 Tree Output:
@@ -56,12 +56,12 @@ Global Options:
   --allow-file-overwriting         false
   --verbose                        false
   --threads                        2
-  --log-file                       reannot202503.heattree.log
+  --log-file                       reannot202503clean.heattree.log
 
 Run the following command to get the references that need to be cited:
 `gappa tools citation Czech2020-genesis-and-gappa`
 
-Started 2025-05-14 07:59:52
+Started 2025-05-14 08:01:09
 
 Found 1 jplace file
 Output options --write-nexus-tree and --write-phyloxml-tree produce trees with colored branches. These formats are however not able to store the legend, that is, which color represents which value. Thus, use to following positions to create a legend (with linear color interpolation between the positions). These positions range from 0.0 (lowest) to 1.0 (heighest), and are labeled with the values and colors represented by those positions.
@@ -74,4 +74,4 @@ Output options --write-nexus-tree and --write-phyloxml-tree produce trees with c
 Alternatively, use the option --write-svg-tree to create an Svg file from which the color legend can be copied.
 
 
-Finished 2025-05-14 07:59:52
+Finished 2025-05-14 08:01:09

@@ -1,6 +1,6 @@
-[2025-04-10 08:21:05,023] multiqc.config                                     [INFO   ]  Loading config settings from: multiqc_config.yml
-[2025-04-10 08:21:05,703] multiqc.core.version_check                         [WARNING]  MultiQC Version v1.28 now available!
-[2025-04-10 08:21:05,703] multiqc.core.file_search                           [INFO   ]  Search path: /home/daluab/projects/elena/lmo_weirdo_sits/phyloplace/work/34/5ce5c7dc09c1526768997e5ac2bf44
-[2025-04-10 08:21:05,756] multiqc.modules.custom_content.custom_content      [INFO   ]  nf-core-phyloplace-summary: Found 1 sample (html)
-[2025-04-10 08:21:05,757] multiqc.modules.custom_content.custom_content      [INFO   ]  nf-core-phyloplace-methods-description: Found 1 sample (html)
-[2025-04-10 08:21:05,763] multiqc.core.write_results                         [INFO   ]  Rendering plots. Export plots to formats png, svg, pdf is requested, so it might take a while. To disable plot export, set `export_plots: false` in config, or remove the `--export-plots` command line flag
+[2025-05-14 08:01:11,455] multiqc.config                                     [INFO   ]  Loading config settings from: multiqc_config.yml
+[2025-05-14 08:01:11,784] multiqc.core.version_check                         [WARNING]  MultiQC Version v1.28 now available!
+[2025-05-14 08:01:11,785] multiqc.core.file_search                           [INFO   ]  Search path: /home/daluab/projects/elena/lmo_weirdo_sits/phyloplace/work/09/63f30357a5001973cf9ff3ce520c8f
+[2025-05-14 08:01:11,812] multiqc.modules.custom_content.custom_content      [INFO   ]  nf-core-phyloplace-summary: Found 1 sample (html)
+[2025-05-14 08:01:11,812] multiqc.modules.custom_content.custom_content      [INFO   ]  nf-core-phyloplace-methods-description: Found 1 sample (html)
+[2025-05-14 08:01:11,814] multiqc.core.write_results                         [INFO   ]  Rendering plots. Export plots to formats png, svg, pdf is requested, so it might take a while. To disable plot export, set `export_plots: false` in config, or remove the `--export-plots` command line flag

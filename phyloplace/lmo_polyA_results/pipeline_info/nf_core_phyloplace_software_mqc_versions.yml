@@ -22,4 +22,4 @@ HMMER_UNALIGNREF:
   hmmer/easel: 0.48
 Workflow:
     nf-core/phyloplace: v2.0.0-g827b85d
-    Nextflow: 24.10.5
+    Nextflow: 25.04.2

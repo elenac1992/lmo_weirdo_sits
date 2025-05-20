@@ -4,7 +4,7 @@
     "report_general_stats_headers": [],
     "report_multiqc_command": "/usr/local/bin/multiqc --force --config multiqc_config.yml .",
     "report_plot_data": {},
-    "report_creation_date": "2025-04-10, 08:21 UTC",
+    "report_creation_date": "2025-05-14, 08:01 UTC",
     "config_analysis_dir": [
         "."
     ],
@@ -17,9 +17,9 @@
     "config_subtitle": null,
     "config_title": null,
     "config_version": "1.27",
-    "config_output_dir": "/home/daluab/projects/elena/lmo_weirdo_sits/phyloplace/work/34/5ce5c7dc09c1526768997e5ac2bf44",
+    "config_output_dir": "/home/daluab/projects/elena/lmo_weirdo_sits/phyloplace/work/09/63f30357a5001973cf9ff3ce520c8f",
     "config_analysis_dir_abs": [
-        "/home/daluab/projects/elena/lmo_weirdo_sits/phyloplace/work/34/5ce5c7dc09c1526768997e5ac2bf44"
+        "/home/daluab/projects/elena/lmo_weirdo_sits/phyloplace/work/09/63f30357a5001973cf9ff3ce520c8f"
     ],
     "report_saved_raw_data": {
     }

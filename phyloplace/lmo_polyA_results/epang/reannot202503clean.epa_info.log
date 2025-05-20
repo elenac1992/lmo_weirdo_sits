@@ -1,7 +1,7 @@
 INFO Selected: Output dir: ./
-INFO Selected: Query file: reannot202503.query.hmmalign.masked.afa.gz
+INFO Selected: Query file: reannot202503clean.query.hmmalign.masked.afa.gz
 INFO Selected: Tree file: references.newick
-INFO Selected: Reference MSA: reannot202503.ref.hmmalign.masked.afa.gz
+INFO Selected: Reference MSA: reannot202503clean.ref.hmmalign.masked.afa.gz
 INFO Selected: Automatic switching of use of per rate scalers
 INFO Selected: Preserving the root of the input tree
 INFO Selected: Specified model: LG+R5+F
